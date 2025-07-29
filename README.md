@@ -39,20 +39,4 @@ Com um sistema intuitivo, os usuários podem encontrar profissionais próximos, 
 | **Design** | Figma |
 | **Hospedagem** | Vercel / Render / Heroku |
 
----
-
-## 📦 Como Executar o Projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/seuusuario/CleanDay.git
-
-# Acesse a pasta do projeto
-cd CleanDay
-
-# Instale as dependências
-npm install
-
-# Execute o servidor
-npm start
 
