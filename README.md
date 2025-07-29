@@ -33,6 +33,6 @@ Com um sistema intuitivo, os usuários podem encontrar profissionais próximos, 
 | **Back-end** | Node.js |
 | **Banco de Dados** | MySQL |
 | **Design** | Figma |
-| **Hospedagem** | Vercel / Render / Heroku |
+
 
 
