@@ -1,25 +1,21 @@
-<h1 align="center">🧹 CleanDay</h1>
+<h1 align="center">
+ CleanDay</h1>
 
 <p align="center">
   <i>Conectando clientes aos melhores profissionais de limpeza de forma rápida, segura e prática.</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status" />
-  <img src="https://img.shields.io/github/license/seuusuario/CleanDay" alt="Licença" />
-  <img src="https://img.shields.io/github/stars/seuusuario/CleanDay?style=social" alt="Stars" />
-</p>
 
 ---
 
-## 🚀 Sobre o Projeto
+##  Sobre o Projeto
 
 O **CleanDay** é uma plataforma digital inovadora que facilita a contratação de serviços de limpeza.  
 Com um sistema intuitivo, os usuários podem encontrar profissionais próximos, agendar serviços, avaliar a experiência e ter suporte integrado — tudo em um só lugar.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - 🔍 **Busca inteligente** por profissionais próximos  
 - 📅 **Agendamento rápido e prático**  
@@ -29,7 +25,7 @@ Com um sistema intuitivo, os usuários podem encontrar profissionais próximos, 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 | Área | Tecnologias |
 |------|-------------|
